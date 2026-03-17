@@ -1,0 +1,20 @@
+# Problemas Encontrados
+-Ancho de columas y filas.
+-Datos inecesarios y largo en nombre de clientes.
+-Espacios en contacto
+-Duplicados.
+-Celdas Vacias.
+-Celdas con Error.
+-Formato Fecha.
+
+#Soluciones
+
+-Ajustar Ancho y Alto de filas y columnas.
+-modificar nombre de clientes.
+-Cambiar y ordenar mayusculas y minusculas.
+-Eliminar espacios en celdas.
+-Eliminar Caracteres que dividen palabras.
+-Eliminar Duplicados.
+-Llenar celdas vacias con NA
+-Estandarizacion de fechas.
+-Corregir formulas con ERROR.
